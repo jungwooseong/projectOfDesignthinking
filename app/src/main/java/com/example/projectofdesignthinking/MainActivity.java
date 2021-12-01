@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //안녕수민아?
         //손수민 바보
-        // 희희11
+        // 희희11ASF
     }
 }
